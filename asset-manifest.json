@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Familia_extrema/static/css/main.0d219dbc.css",
-    "main.js": "/Familia_extrema/static/js/main.edbdf17d.js",
+    "main.css": "/Familia_extrema/static/css/main.d96c83de.css",
+    "main.js": "/Familia_extrema/static/js/main.10bfaa70.js",
     "static/js/787.3e9a2da2.chunk.js": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js",
     "static/media/fondo14.png": "/Familia_extrema/static/media/fondo14.c793cceec811246c9203.png",
     "static/media/fondo13.jpg": "/Familia_extrema/static/media/fondo13.d980b05ddfc069f7c0fa.jpg",
@@ -28,12 +28,12 @@
     "static/media/ligaWarLogo.jpg": "/Familia_extrema/static/media/ligaWarLogo.ec5cac46a5081d0a5b37.jpg",
     "static/media/fondo12.jpg": "/Familia_extrema/static/media/fondo12.3231e2d998d4a3d376d4.jpg",
     "index.html": "/Familia_extrema/index.html",
-    "main.0d219dbc.css.map": "/Familia_extrema/static/css/main.0d219dbc.css.map",
-    "main.edbdf17d.js.map": "/Familia_extrema/static/js/main.edbdf17d.js.map",
+    "main.d96c83de.css.map": "/Familia_extrema/static/css/main.d96c83de.css.map",
+    "main.10bfaa70.js.map": "/Familia_extrema/static/js/main.10bfaa70.js.map",
     "787.3e9a2da2.chunk.js.map": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d219dbc.css",
-    "static/js/main.edbdf17d.js"
+    "static/css/main.d96c83de.css",
+    "static/js/main.10bfaa70.js"
   ]
 }
