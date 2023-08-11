@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Familia_extrema/static/css/main.48ab03c7.css",
-    "main.js": "/Familia_extrema/static/js/main.c20df674.js",
+    "main.css": "/Familia_extrema/static/css/main.ee32a8b1.css",
+    "main.js": "/Familia_extrema/static/js/main.45ca82cf.js",
     "static/js/787.3e9a2da2.chunk.js": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js",
     "static/media/fondo14.png": "/Familia_extrema/static/media/fondo14.c793cceec811246c9203.png",
     "static/media/fondo13.jpg": "/Familia_extrema/static/media/fondo13.d980b05ddfc069f7c0fa.jpg",
@@ -30,12 +30,12 @@
     "static/media/fondo12.jpg": "/Familia_extrema/static/media/fondo12.3231e2d998d4a3d376d4.jpg",
     "static/media/fondo20.jpg": "/Familia_extrema/static/media/fondo20.438722b92ae88c41f44c.jpg",
     "index.html": "/Familia_extrema/index.html",
-    "main.48ab03c7.css.map": "/Familia_extrema/static/css/main.48ab03c7.css.map",
-    "main.c20df674.js.map": "/Familia_extrema/static/js/main.c20df674.js.map",
+    "main.ee32a8b1.css.map": "/Familia_extrema/static/css/main.ee32a8b1.css.map",
+    "main.45ca82cf.js.map": "/Familia_extrema/static/js/main.45ca82cf.js.map",
     "787.3e9a2da2.chunk.js.map": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48ab03c7.css",
-    "static/js/main.c20df674.js"
+    "static/css/main.ee32a8b1.css",
+    "static/js/main.45ca82cf.js"
   ]
 }
