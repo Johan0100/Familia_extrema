@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Familia_extrema/static/css/main.8fcfabd1.css",
-    "main.js": "/Familia_extrema/static/js/main.fe6b04b7.js",
+    "main.js": "/Familia_extrema/static/js/main.1a34eabc.js",
     "static/js/787.3e9a2da2.chunk.js": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js",
     "static/media/fondo14.png": "/Familia_extrema/static/media/fondo14.c793cceec811246c9203.png",
     "static/media/fondo13.jpg": "/Familia_extrema/static/media/fondo13.d980b05ddfc069f7c0fa.jpg",
@@ -29,17 +29,17 @@
     "static/media/ligaWarLogo.jpg": "/Familia_extrema/static/media/ligaWarLogo.ec5cac46a5081d0a5b37.jpg",
     "static/media/fondo12.jpg": "/Familia_extrema/static/media/fondo12.3231e2d998d4a3d376d4.jpg",
     "static/media/reOro.gif": "/Familia_extrema/static/media/reOro.3f160a9090c210e68f63.gif",
-    "static/media/elixir.png": "/Familia_extrema/static/media/elixir.2587f35f137827bd3c7f.png",
     "static/media/reGema.png": "/Familia_extrema/static/media/reGema.b6133f45d7c94471f142.png",
     "static/media/fondo20.jpg": "/Familia_extrema/static/media/fondo20.438722b92ae88c41f44c.jpg",
     "static/media/reElixirO.png": "/Familia_extrema/static/media/reElixirO.bd8675bb5dc417bcc999.png",
+    "static/media/reElixir.png": "/Familia_extrema/static/media/reElixir.97d7871881699e515cba.png",
     "index.html": "/Familia_extrema/index.html",
     "main.8fcfabd1.css.map": "/Familia_extrema/static/css/main.8fcfabd1.css.map",
-    "main.fe6b04b7.js.map": "/Familia_extrema/static/js/main.fe6b04b7.js.map",
+    "main.1a34eabc.js.map": "/Familia_extrema/static/js/main.1a34eabc.js.map",
     "787.3e9a2da2.chunk.js.map": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8fcfabd1.css",
-    "static/js/main.fe6b04b7.js"
+    "static/js/main.1a34eabc.js"
   ]
 }
