@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Familia_extrema/static/css/main.3ff7b2e3.css",
-    "main.js": "/Familia_extrema/static/js/main.4474c5c5.js",
+    "main.js": "/Familia_extrema/static/js/main.cc2b4008.js",
     "static/js/787.3e9a2da2.chunk.js": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js",
     "static/media/fondo14.png": "/Familia_extrema/static/media/fondo14.c793cceec811246c9203.png",
     "static/media/fondo13.jpg": "/Familia_extrema/static/media/fondo13.d980b05ddfc069f7c0fa.jpg",
@@ -35,11 +35,11 @@
     "static/media/reElixir.png": "/Familia_extrema/static/media/reElixir.97d7871881699e515cba.png",
     "index.html": "/Familia_extrema/index.html",
     "main.3ff7b2e3.css.map": "/Familia_extrema/static/css/main.3ff7b2e3.css.map",
-    "main.4474c5c5.js.map": "/Familia_extrema/static/js/main.4474c5c5.js.map",
+    "main.cc2b4008.js.map": "/Familia_extrema/static/js/main.cc2b4008.js.map",
     "787.3e9a2da2.chunk.js.map": "/Familia_extrema/static/js/787.3e9a2da2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff7b2e3.css",
-    "static/js/main.4474c5c5.js"
+    "static/js/main.cc2b4008.js"
   ]
 }
